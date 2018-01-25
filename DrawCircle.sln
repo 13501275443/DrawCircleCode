@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawCircle", "DrawCircle.vcxproj", "{074483D8-2212-4D54-A657-5E7FAE29FC6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawCircle_gtest", "DrawCircle_gtest\DrawCircle_gtest.vcxproj", "{2A46B329-8BB5-4244-9372-576F43F57F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074483D8-2212-4D54-A657-5E7FAE29FC6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{074483D8-2212-4D54-A657-5E7FAE29FC6B}.Debug|Win32.Build.0 = Debug|Win32
+		{074483D8-2212-4D54-A657-5E7FAE29FC6B}.Release|Win32.ActiveCfg = Release|Win32
+		{074483D8-2212-4D54-A657-5E7FAE29FC6B}.Release|Win32.Build.0 = Release|Win32
+		{2A46B329-8BB5-4244-9372-576F43F57F77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A46B329-8BB5-4244-9372-576F43F57F77}.Debug|Win32.Build.0 = Debug|Win32
+		{2A46B329-8BB5-4244-9372-576F43F57F77}.Release|Win32.ActiveCfg = Release|Win32
+		{2A46B329-8BB5-4244-9372-576F43F57F77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
